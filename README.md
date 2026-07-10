@@ -67,7 +67,7 @@ Aplicação desenvolvida para gerenciamento de checklists de manutenção de equ
 
 ## 📫 Contato
 
-<a href="SEU LINKEDIN">
+<a href="https://www.linkedin.com/in/luizsilva-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
