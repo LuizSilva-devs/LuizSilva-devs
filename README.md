@@ -72,11 +72,14 @@ Aplicação desenvolvida para gerenciamento de checklists de manutenção de equ
 </a>
 
 ---
-
-<<p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizSilva-devs&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizSilva-devs&theme=tokyonight"/>
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizSilva-devs&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LuizSilva-devs&theme=tokyonight&hide_border=true"/>
 </p>
