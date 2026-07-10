@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá, eu sou Luiz Silva 👋
 
-<!--
-**LuizSilva-devs/LuizSilva-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student
+☕ Java Developer in progress
+📊 Power BI | SQL | Power Platform
+🚀 Building real-world software projects
 
-Here are some ideas to get you started:
+Tecnologias
+Java | SQL | Git | Power BI | Power Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos em destaque
+✔ Sistema de Controle de Manutenção
+✔ Dashboard Power BI
+✔ Estudos em Java
+✔ APIs REST (em breve)
+
+GitHub Stats
+(Estatísticas automáticas)
+
+Linguagens mais utilizadas
+(Java, SQL, etc.)
