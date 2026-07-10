@@ -73,16 +73,10 @@ Aplicação desenvolvida para gerenciamento de checklists de manutenção de equ
 
 ---
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizSilva-devs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSilva-devs&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizSilva-devs&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=LuizSilva-devs&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizSilva-devs&theme=tokyonight"/>
 </p>
