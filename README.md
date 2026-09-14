@@ -76,11 +76,3 @@ Aplicativo do Projeto Integrador que identifica um livro a partir de um trecho d
 ## 📫 Contato
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizsilva-dev/)
-
----
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizSilva-devs&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizSilva-devs&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=LuizSilva-devs&theme=tokyonight&hide_border=true)
