@@ -20,8 +20,6 @@
 
 ![](https://skillicons.dev/icons?i=java)
 ![](https://skillicons.dev/icons?i=spring)
-![](https://skillicons.dev/icons?i=react)
-![](https://skillicons.dev/icons?i=ts)
 ![](https://skillicons.dev/icons?i=postgres)
 ![](https://skillicons.dev/icons?i=docker)
 ![](https://skillicons.dev/icons?i=git)
