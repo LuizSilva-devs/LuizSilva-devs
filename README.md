@@ -2,7 +2,7 @@
 
 ### Software Engineering Student
 
-🎓 Engenharia de Software • ☕ Java & Spring Boot • ⚛️ React/TypeScript • 📊 SQL & Power BI
+🎓 Engenharia de Software • ☕ Java & Spring Boot • 📊 SQL & Power BI
 
 ---
 
@@ -67,7 +67,6 @@ Aplicativo do Projeto Integrador que identifica um livro a partir de um trecho d
 
 - Java & Spring Boot
 - Programação Orientada a Objetos
-- React & TypeScript
 - Git e GitHub
 - SQL e Estrutura de Dados
 
